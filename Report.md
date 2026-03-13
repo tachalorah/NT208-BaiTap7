@@ -5,7 +5,7 @@ Các sinh viên thực hiện:
 3. Phan Hoàng Dũng - 24520348
 4. Huỳnh Đăng Khoa - 24520815
 
-Repo đã sửa lỗi:
+Repo đã sửa lỗi: https://github.com/tachalorah/NT208-BaiTap7
 
 ## Lỗi cú pháp
 1. Sai ngoặc trong tệp pages/customer.php:
