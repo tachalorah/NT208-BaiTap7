@@ -1,9 +1,9 @@
 # Sửa lỗi trang web có PHP
 Các sinh viên thực hiện:
-1. Huỳnh Đăng Khoa
-2. Phạm Ngọc Dũng
-3. Phan Hoàng Dũng
-4. Bùi Công Định
+1. Bùi Công Định - 24520303
+2. Phạm Ngọc Dũng - 24520346
+3. Phan Hoàng Dũng - 24520348
+4. Huỳnh Đăng Khoa - 24520815
 
 Repo đã sửa lỗi:
 
@@ -19,7 +19,7 @@ Repo đã sửa lỗi:
     Sửa thành:
     ```php
     foreach ($customers as $customer) {
-        if ($customer['active'] {
+        if ($customer['active']) {
             $activeCustomers[] = $customer;
         }
     }
